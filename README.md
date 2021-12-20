@@ -1,5 +1,5 @@
 <p align="center">
-  Mr. Infinity Bucket
+  <img src="./assets/infinitybucket.png" width="300px">
 </p>
 
 # Making an "issue"
